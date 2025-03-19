@@ -1,5 +1,2 @@
-let a = 2;
-let b = 3;
-let resultaat = a + b;
-
-console.log("De som van 2 + 3 is: " + resultaat);
+def add(a, b): 
+  return a + b
